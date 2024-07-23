@@ -67,7 +67,7 @@ async def main(query: str):
     return result
 
 if __name__ == "__main__":
-    query = "who is the viniak dev "
+    query = "who is the viniak dev"
     result = asyncio.run(main(query))
     print(result.response)
     print(result.context_data["reports"])
