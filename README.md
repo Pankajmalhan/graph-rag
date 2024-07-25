@@ -1,5 +1,7 @@
 # GraphRAG: Unlocking LLM Discovery on Narrative Private Data
 
+![alt text](https://github.com/Pankajmalhan/graph-rag/blob/main/media/2.png)
+
 GraphRAG is a cutting-edge technology developed by Microsoft Research that enhances the capabilities of Large Language Models (LLMs) by using LLM-generated knowledge graphs. This approach significantly improves question-and-answer performance, especially when dealing with complex information and private datasets that the LLMs have never seen before.
 
 ## What is GraphRAG?
